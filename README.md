@@ -8,8 +8,9 @@
 </p>
 
 <div align="center">
-✨ I'm <strong>Asilbek Abdunabiyev</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.
-With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
+✨ I'm <strong>Asilbek Abdunabiyev</strong>, a Full-Stack Developer specializing in scalable web platforms and Telegram bot solutions.
+Delivered projects serving <strong>70,000+ users</strong> across education, tourism, and fintech, including a payment system processing <strong>$10,000+</strong> in monthly transactions.
+Proficient in <strong>JavaScript, PHP, Python, and Django</strong> — focused on performance, security, and clean architecture. 🚀
 </div>
 
 
